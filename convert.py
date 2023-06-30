@@ -3,6 +3,7 @@ import pyvips
 # from memory_profiler import profile
 
 
+# Дополнительно может потребоваться установка библиотеки sudo apt install libvips
 # Предварительно создайте в корне папку img
 # @profile
 def main():
